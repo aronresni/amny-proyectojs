@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "autor": "Robert Kiyosaki",
+        "año": 1949,
+        "titulo": "Padre Rico Padre Pobre",
+        "precio": 900,
+        "imagen": "padrericopadrepobre.jpeg"
+    },
+    {
+        "id": 2,
+        "autor": "Robin S. Sharma",
+        "año": 2018,
+        "titulo": "El club de las 5 de la mañana",
+        "precio": 4500,
+        "imagen": "elclubdelas5delamañana.jpeg"
+    },
+    {
+        "id": 3,
+        "autor": "Benjamin Graham",
+        "año": 2008,
+        "titulo": "El Inversor Inteligente",
+        "precio": 2800,
+        "imagen": "elinversorinteligente.png"
+    },
+    {
+        "id": 4,
+        "autor": "Robin S. Sharma",
+        "año": 2010,
+        "titulo": "El monje que vendio su ferrari",
+        "precio": 1400,
+        "imagen": "elmonjequevendiosuferrari.jpeg"
+    },
+    {
+        "id": 5,
+        "autor": "Eckhart Tolle",
+        "año": 2008,
+        "titulo": "El poder del ahora",
+        "precio": 2200,
+        "imagen": "elpoderdelahora.png"
+    },
+    {
+        "id": 6,
+        "autor": "James Clear",
+        "año": 2019,
+        "titulo": "Habitos Atomicos",
+        "precio": 2000,
+        "imagen": "habitosatomicos.png"
+    },
+    {
+        "id": 7,
+        "autor": "Claudia Hammond",
+        "año": 2016,
+        "titulo": "La psicologia del dinero",
+        "precio": 2000,
+        "imagen": "lapsicologiadeldinero.jpeg"
+    },
+    {
+        "id": 8,
+        "autor": "Timothy Ferriss",
+        "año": 2008,
+        "titulo": "La semana laboral de 4 horas",
+        "precio": 2000,
+        "imagen": "lasemanalaboralde4horas.jpeg"
+    },
+    {
+        "id": 9,
+        "autor": "Stephen R. Covey",
+        "año": 1989,
+        "titulo": "Los 7 habitos de la gente altamente efectiva",
+        "precio": 2000,
+        "imagen": "los7habitos.jpeg"
+    },
+    {
+        "id": 10,
+        "autor": "Napoleon Hill",
+        "año": 1937,
+        "titulo": "Piense y hagase rico",
+        "precio": 2000,
+        "imagen": "pienseyhagaserico.jpeg"
+    },
+    {
+        "id": 11,
+        "autor": "Ryan Holiday",
+        "año": 2016,
+        "titulo": "El ego es el enemigo",
+        "precio": 2000,
+        "imagen": "elegoeselenemigo.jpeg"
+    }
+]
